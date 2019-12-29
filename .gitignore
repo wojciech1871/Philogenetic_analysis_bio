@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+*.pdf
+
+raw_clusters/
+sequences/
+sequences_sampled/
+
+usearch*
