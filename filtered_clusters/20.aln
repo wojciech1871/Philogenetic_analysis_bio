@@ -1,0 +1,46 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+tr|H2R9Y4|H2R9Y4_PANTR              ---------------------------------------------MDPN-
+tr|A0A5F7ZQA4|A0A5F7ZQA4_MACMU      --MQPLAVGLHHAFHVHHCLFSSRFGTPLLP-----------PVAMDPN-
+tr|A0A096NIJ9|A0A096NIJ9_PAPAN      ---------------------------------------------MDPN-
+tr|H0WYS7|H0WYS7_OTOGA              ---------------------------------------------MDPN-
+tr|Q6VEU6|Q6VEU6_MOUSE              ---------------------------------------------MDPN-
+sp|P80291|MT2D_RABIT                ---------------------------------------------MDPN-
+tr|Q7M082|Q7M082_RAT                -----------------------------------------------PN-
+tr|A0A024R6R7|A0A024R6R7_HUMAN      ---------------------------------------------MDPET
+tr|A0A5F4VU54|A0A5F4VU54_CALJA      MKGMRVREGLGNTQSAFPSTFADAKPRVQLPGEARSPPLAAARLDMDPEP
+                                                                                   *: 
+
+tr|H2R9Y4|H2R9Y4_PANTR              CSCATGGSCTCAGSCKCKECKCTSCKKSECGAISRNLGLWLR--------
+tr|A0A5F7ZQA4|A0A5F7ZQA4_MACMU      CSCASGVSCTCPGSCKCKECKCTSCKKSECGAISRNLGLWLR--------
+tr|A0A096NIJ9|A0A096NIJ9_PAPAN      CSCTAGASCTCARSCKCKECKCTSCKKSELLLLLP-CGLCQV--------
+tr|H0WYS7|H0WYS7_OTOGA              CSCATGGSCSCAGSCKCKECKCTSCKKSCCSCCPVGCAKCAQG-----CI
+tr|Q6VEU6|Q6VEU6_MOUSE              CSCAAGDSCTCAGSCKCKECKCTSCKKSCCSCCPVGCAKCAQA-----CI
+sp|P80291|MT2D_RABIT                CSCATRDSCACASSCKCKECKCTSCKKSCCSCCPAGCTKCAQG-----CI
+tr|Q7M082|Q7M082_RAT                CSCSTGGSCTCSSSCGCKN-----CKKSCCSCCPVGCSKCAQG-----CV
+tr|A0A024R6R7|A0A024R6R7_HUMAN      CPCPSGGSCTCADSCKCEGCKCTSCKKSCCSCCPAECEKCAKD-----CV
+tr|A0A5F4VU54|A0A5F4VU54_CALJA      CPCPSGGSCTCASSCKCKVCTCTSCKKSEHGDFPGNLGAGQSQRRDLRCP
+                                    *.*.:  **:*. ** *:      ****                      
+
+tr|H2R9Y4|H2R9Y4_PANTR              LGGNSRLALSASFWGTGLSLPSLPVSFPLQAFCPKFRWGRTEFLSWNTNP
+tr|A0A5F7ZQA4|A0A5F7ZQA4_MACMU      LGGNSRLALSSCFSGTGLPL-SL---------------------------
+tr|A0A096NIJ9|A0A096NIJ9_PAPAN      CPG---LCLQRLVREVPLLCLMLGEHCFQA--------------------
+tr|H0WYS7|H0WYS7_OTOGA              CKG------ASEKCSCCA--------------------------------
+tr|Q6VEU6|Q6VEU6_MOUSE              CKG------ASDKCSCCA--------------------------------
+sp|P80291|MT2D_RABIT                CKG------ASDKCSCCA--------------------------------
+tr|Q7M082|Q7M082_RAT                CKG------A--KCTCCA--------------------------------
+tr|A0A024R6R7|A0A024R6R7_HUMAN      CKGGEAAEAEAEKCSCCQ--------------------------------
+tr|A0A5F4VU54|A0A5F4VU54_CALJA      QAG-ASQPPTSPETNSGSELKNIRDGCSPPNLHSYN--GETEDTRMQQLA
+                                      *                                               
+
+tr|H2R9Y4|H2R9Y4_PANTR              NCTPYGFTELCQTKKSILWVWVLSSSQACY
+tr|A0A5F7ZQA4|A0A5F7ZQA4_MACMU      ------------------------------
+tr|A0A096NIJ9|A0A096NIJ9_PAPAN      ------------------------------
+tr|H0WYS7|H0WYS7_OTOGA              ------------------------------
+tr|Q6VEU6|Q6VEU6_MOUSE              ------------------------------
+sp|P80291|MT2D_RABIT                ------------------------------
+tr|Q7M082|Q7M082_RAT                ------------------------------
+tr|A0A024R6R7|A0A024R6R7_HUMAN      ------------------------------
+tr|A0A5F4VU54|A0A5F4VU54_CALJA      KHRPDT------------------------
+                                                                  

@@ -1,0 +1,68 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+tr|A0A2Z4SYL2|A0A2Z4SYL2_MOUSE      -----------------------------------FVFQFKFQCYFTNGT
+tr|Q8MHS5|Q8MHS5_MACMU              -------------------------------------VQFKGLCYFTNGT
+tr|O77990|O77990_PANTR              ---------------------------------ENYVYQGRQECYAFNGT
+sp|P18211|HB2D_RAT                  --MVWLARDSCVAAVILLLTVLSPPVALVRDPTPRFLEQVKGECHFYNGT
+tr|A0A2I3NFZ8|A0A2I3NFZ8_PAPAN      MVFLKLPGSSCMAALTVTLMVLSSPLALAGDTRPRFLEQVKYECHFFNGT
+tr|G1SFC3|G1SFC3_RABIT              MLCLWLSRGPCLAALTVTLLVLSSYLALARDTRSRFLELVKHECHFSNGT
+tr|D6MJL1|D6MJL1_HUMAN              ----------------------------------RFLEYSTSECHFFNGT
+tr|Q9MXX6|Q9MXX6_CALJA              ----------------------------------------TSECHFFNGT
+tr|Q30854|Q30854_OTOGA              ----------------------------------RFLELLKSECRFFNWT
+                                                                               *   * *
+
+tr|A0A2Z4SYL2|A0A2Z4SYL2_MOUSE      QRIRSVDRYIYNREEYLRFDSDVGEYRALTELGRPDAEYYN--KQYLEET
+tr|Q8MHS5|Q8MHS5_MACMU              ERVRSVTRYIYNREEYARFDSDWGEYRAVTPLGRPDAEYWNSQKDILEST
+tr|O77990|O77990_PANTR              QRY--LERYIYNREEYARFDSDVGEFRAVTELGRPAAEYWNSQKDLLEEK
+sp|P18211|HB2D_RAT                  QRVRFLARYIYNREEYTRFDSDVGEFRAVTELGRPSAEYYNKQKEYMEQL
+tr|A0A2I3NFZ8|A0A2I3NFZ8_PAPAN      ERVRLLERHISNQEENVRFDSDVGEFRAVTELGRPDAESWNSQKDLLEGR
+tr|G1SFC3|G1SFC3_RABIT              QRVRYIFRDVYNQEEHVRFDSDVGEFEAVTELGRPDAEYWNSQTDILEDR
+tr|D6MJL1|D6MJL1_HUMAN              ERVRFLDRYFYNQEEYVRFDSDVGEFRAVTELGRPSAEYWNSQKDFLEDR
+tr|Q9MXX6|Q9MXX6_CALJA              ERVRFLDRYFFNQEENLRFDSDVGEFRAVTELGRPDAESWNSQKDFLEDR
+tr|Q30854|Q30854_OTOGA              EQVRFLGRHVYNQEEFLLFHSDVGKGVAVTALGRTEEESWNRRKELLELK
+                                    ::   : * . *:**   *.** *:  *:* ***.  * :*  .: :*  
+
+tr|A0A2Z4SYL2|A0A2Z4SYL2_MOUSE      RAAVDTVCRHNYEGPETHTSLRR---------------------------
+tr|Q8MHS5|Q8MHS5_MACMU              RAEADTVCIHNYQS-ELRTT------------------------------
+tr|O77990|O77990_PANTR              RAVPDRMCRHNYELNEAVTLQ-----------------------------
+sp|P18211|HB2D_RAT                  RATVDTACKHDYEISESFLVPRTVEPKVTVYPSKTQPLEHHNLLVCSVSD
+tr|A0A2I3NFZ8|A0A2I3NFZ8_PAPAN      RAAVDTYCRHNYRIAESFTVQRRVQPKVTVYPAKTQPLQHHTLLVCSVNG
+tr|G1SFC3|G1SFC3_RABIT              RTAVDRYCRHNYGVLDSFLVQRRVVPTVTVYPAKTQPLQHHNLLVCAVSG
+tr|D6MJL1|D6MJL1_HUMAN              RAAVDTYCRHNYGVGESFTVQRR---------------------------
+tr|Q9MXX6|Q9MXX6_CALJA              RAEVDTFCRHNYEILD----------------------------------
+tr|Q30854|Q30854_OTOGA              RGQVDNYCRHKYRIGRASQCSGE---------------------------
+                                    *   *  * *.*                                      
+
+tr|A0A2Z4SYL2|A0A2Z4SYL2_MOUSE      --------------------------------------------------
+tr|Q8MHS5|Q8MHS5_MACMU              --------------------------------------------------
+tr|O77990|O77990_PANTR              --------------------------------------------------
+sp|P18211|HB2D_RAT                  FYPGSVEVRWFRNGEEEKDGLVSTGLIRNGDWTFQLLVMLETVPQGGEVY
+tr|A0A2I3NFZ8|A0A2I3NFZ8_PAPAN      FYPGSIEVRWFRNGQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVY
+tr|G1SFC3|G1SFC3_RABIT              FYPGHIEVRWFRNGEEEEAGVVSTGLIRNGDWTFQTLVMLETVPQSGEVY
+tr|D6MJL1|D6MJL1_HUMAN              --------------------------------------------------
+tr|Q9MXX6|Q9MXX6_CALJA              --------------------------------------------------
+tr|Q30854|Q30854_OTOGA              --------------------------------------------------
+                                                                                      
+
+tr|A0A2Z4SYL2|A0A2Z4SYL2_MOUSE      --------------------------------------------------
+tr|Q8MHS5|Q8MHS5_MACMU              --------------------------------------------------
+tr|O77990|O77990_PANTR              --------------------------------------------------
+sp|P18211|HB2D_RAT                  TCQVEHPSLPSPVRVEWKAQSTSAQNKKMSG-VGGIVLGLLFLGAGLFVY
+tr|A0A2I3NFZ8|A0A2I3NFZ8_PAPAN      TCQVEHPSVTSPLTVQWSEARSESAQSKMLSGVGGFVLGLLFLGAGLFIY
+tr|G1SFC3|G1SFC3_RABIT              TCQVEHPSVTSPITVEW-KAQSESAQSKMLSGVGGFVLGLLFLGLGLFVY
+tr|D6MJL1|D6MJL1_HUMAN              --------------------------------------------------
+tr|Q9MXX6|Q9MXX6_CALJA              --------------------------------------------------
+tr|Q30854|Q30854_OTOGA              --------------------------------------------------
+                                                                                      
+
+tr|A0A2Z4SYL2|A0A2Z4SYL2_MOUSE      -----------------------------
+tr|Q8MHS5|Q8MHS5_MACMU              -----------------------------
+tr|O77990|O77990_PANTR              -----------------------------
+sp|P18211|HB2D_RAT                  FRNQKGQSGLQPTGLLN------------
+tr|A0A2I3NFZ8|A0A2I3NFZ8_PAPAN      FRNQKGEEPLVTAGFLSQEHGLNLHRARC
+tr|G1SFC3|G1SFC3_RABIT              RRNQKGHSGLQPTGLLS------------
+tr|D6MJL1|D6MJL1_HUMAN              -----------------------------
+tr|Q9MXX6|Q9MXX6_CALJA              -----------------------------
+tr|Q30854|Q30854_OTOGA              -----------------------------
+                                                                 

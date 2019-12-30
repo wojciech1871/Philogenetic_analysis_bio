@@ -4,5 +4,7 @@
 raw_clusters/
 sequences/
 sequences_sampled/
+trees/
 
 usearch*
+clustalw2*

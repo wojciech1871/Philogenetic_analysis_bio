@@ -1,0 +1,156 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+tr|H0XGB9|H0XGB9_OTOGA              --------------------------------------------------
+tr|U3EF14|U3EF14_CALJA              MDHPSREKDERQRTTKPMAQRSGHCSRPSGSSSSGVLMVGPNFRVGKKIG
+tr|A0A5F9D336|A0A5F9D336_RABIT      MDNKKKDKDKSDDRMARPSGRSGHSARGTGSSSSGVLMVGPNFRVGKKIG
+tr|I0FHH4|I0FHH4_MACMU              MENKKKDKDKSDDRMARPSGRSGHNTRGTGSSSSGVLMVGPNFRVGKKIG
+tr|A0A0A0MXY3|A0A0A0MXY3_RAT        MDNKKKDKDKSDDRMARPSGRSGHSTRGTGSSSSGVLMVGPNFRVGKKIG
+tr|E9Q3W1|E9Q3W1_MOUSE              --------------------------------------------------
+tr|A0A590UJQ7|A0A590UJQ7_HUMAN      --------------------------------------------------
+tr|A0A2I3MX56|A0A2I3MX56_PAPAN      --------------------------------------------------
+tr|A0A2J8NJF1|A0A2J8NJF1_PANTR      --------------------------------------------------
+                                                                                      
+
+tr|H0XGB9|H0XGB9_OTOGA              ---------------------------------------------SGEGL
+tr|U3EF14|U3EF14_CALJA              CGNFGELRLGKNLYTNEYVAIKLEPIKSRAPQLHLEYRFYKQLGSAGEGL
+tr|A0A5F9D336|A0A5F9D336_RABIT      CGNFGELRLGKNLYTNEYVAIKLEPMKSRAPQLHLEYRFYKQLG-SGDGI
+tr|I0FHH4|I0FHH4_MACMU              CGNFGELRLGKNLYTNEYVAIKLEPMKSRAPQLHLEYRFYKQLG-SGDGI
+tr|A0A0A0MXY3|A0A0A0MXY3_RAT        CGNFGELRLGKNLYTNEYVAIKLEPMKSRAPQLHLEYRFYKQLG-SGDGI
+tr|E9Q3W1|E9Q3W1_MOUSE              --------------------------------------------------
+tr|A0A590UJQ7|A0A590UJQ7_HUMAN      --------------------------------------------------
+tr|A0A2I3MX56|A0A2I3MX56_PAPAN      --------------------------------------------------
+tr|A0A2J8NJF1|A0A2J8NJF1_PANTR      --------------------------------------------------
+                                                                                      
+
+tr|H0XGB9|H0XGB9_OTOGA              PQVYYFGPCGKYNAMVLELLGPSLEDLFDLCDRTFTLKTVLMIAIQLLSR
+tr|U3EF14|U3EF14_CALJA              PQVYYFGPCGKYNAMVLELLGPSLEDLFDLCDRTFTLKTVLMIAIQLLSR
+tr|A0A5F9D336|A0A5F9D336_RABIT      PQVYYFGPCGKYNAMVLELLGPSLEDLFDLCDRTFSLKTVLMIAIQLISR
+tr|I0FHH4|I0FHH4_MACMU              PQVYYFGPCGKYNAMVLELLGPSLEDLFDLCDRTFSLKTVLMIAIQLISR
+tr|A0A0A0MXY3|A0A0A0MXY3_RAT        SSVLYTTPSGKYNAMVLELLGPSLEDLFDLCDRTFSLKTVLMIAIQLISR
+tr|E9Q3W1|E9Q3W1_MOUSE              --------------------------------------------------
+tr|A0A590UJQ7|A0A590UJQ7_HUMAN      --------------------------------------------------
+tr|A0A2I3MX56|A0A2I3MX56_PAPAN      --------------------------------------------------
+tr|A0A2J8NJF1|A0A2J8NJF1_PANTR      --------------------------------------------------
+                                                                                      
+
+tr|H0XGB9|H0XGB9_OTOGA              MEYVHSKNLIYRDVKPENFLIGRQGNKKEHVIHIIDFGLAKEYIDPETKK
+tr|U3EF14|U3EF14_CALJA              MEYVHSKNLIYRDVKPENFLIGRQGNKKERVIHIIDFGLAKEYIDPETKK
+tr|A0A5F9D336|A0A5F9D336_RABIT      MEYVHSKNLIYRDVKPENFLIGRPGNKTQQVIHIIDFGLAKEYIDPETKK
+tr|I0FHH4|I0FHH4_MACMU              MEYVHSKNLIYRDVKPENFLIGRPGNKTQQVIHIIDFGLAKEYIDPETKK
+tr|A0A0A0MXY3|A0A0A0MXY3_RAT        MEYVHSKNLIYRDVKPENFLIGRPGNKAQQVIHIIDFGLAKEYIDPETKK
+tr|E9Q3W1|E9Q3W1_MOUSE              --------------------------------------------------
+tr|A0A590UJQ7|A0A590UJQ7_HUMAN      --------------------------------------------------
+tr|A0A2I3MX56|A0A2I3MX56_PAPAN      --------------------------------------------------
+tr|A0A2J8NJF1|A0A2J8NJF1_PANTR      --------------------------------------------------
+                                                                                      
+
+tr|H0XGB9|H0XGB9_OTOGA              HIPYREHKSLTGTARYMSINTHLG--KEQSRRDDLEALGHMFMYFLRGSL
+tr|U3EF14|U3EF14_CALJA              HIPYREHKSLTGTARYMSINTHLG--KEQSRRDDLEALGHMFMYFLRGSL
+tr|A0A5F9D336|A0A5F9D336_RABIT      HIPYREHKSLTGTARYMSINTHLG--KEQSRRDDLEALGHMFMYFLRGSL
+tr|I0FHH4|I0FHH4_MACMU              HIPYREHKSLTGTARYMSINTHLG--KEQSRRDDLEALGHMFMYFLRGSL
+tr|A0A0A0MXY3|A0A0A0MXY3_RAT        HIPYREHKSLTGTARYMSINTHLG--KEQSRRDDLEALGHMFMYFLRGSL
+tr|E9Q3W1|E9Q3W1_MOUSE              ----------MASSSGSKAEFIVGGKYKLVRKIGSGSFGDIYLAINIT--
+tr|A0A590UJQ7|A0A590UJQ7_HUMAN      ----------MASSSGSKAEFIVGGKYKLVRKIGSGSFGDIYLAINIT--
+tr|A0A2I3MX56|A0A2I3MX56_PAPAN      ----------MASSSGSKAEFIVGGKYKLVRKIGSGSFGDIYLAINIT--
+tr|A0A2J8NJF1|A0A2J8NJF1_PANTR      -----------GTARYASINAHLG--IEQSRRDDMESLGYVLMYFNRTSL
+                                               .::   . :  :*   :  *: .  ::* : : :     
+
+tr|H0XGB9|H0XGB9_OTOGA              PWQGLKADTLKERYQKIGDTKRNTPIEALCENFPEEMATYLRYVRRLDFF
+tr|U3EF14|U3EF14_CALJA              PWQGLKAETLKERYQKIGDTKRNTPIEALCENFPEEMATYLRYVRRLDFF
+tr|A0A5F9D336|A0A5F9D336_RABIT      PWQGLKADTLKERYQKIGDTKRATPIEALCDNFP-EMATYLRYVRRLDFF
+tr|I0FHH4|I0FHH4_MACMU              PWQGLKADTLKERYQKIGDTKRATPIEVLCENFP-EMATYLRYVRRLDFF
+tr|A0A0A0MXY3|A0A0A0MXY3_RAT        PWQGLKADTLKERYQKIGDTKRATPIEVLCENFPEEMATYLRYVRRLDFF
+tr|E9Q3W1|E9Q3W1_MOUSE              --NGEEVAVKLE-----SQK-----------------------------A
+tr|A0A590UJQ7|A0A590UJQ7_HUMAN      --NGEEVAVKLE-----SQK-----------------------------A
+tr|A0A2I3MX56|A0A2I3MX56_PAPAN      --NGEEVAVKLE-----SQK-----------------------------A
+tr|A0A2J8NJF1|A0A2J8NJF1_PANTR      PWQGLKAATKKQKYEKISEKKMSTPVEVLCKGFPAEFAMYLNYCRGLRFE
+                                      :* :. .  :     .:.                              
+
+tr|H0XGB9|H0XGB9_OTOGA              EKPDYEYLRTLFTDLFERKGYTFDYAYDWVGRPIVPTQRGSEGEDSGRTK
+tr|U3EF14|U3EF14_CALJA              EKPDYEYLRTLFTDLFERKGYTFDHAYDWVGRP-IPTPVGSVHVDSGASA
+tr|A0A5F9D336|A0A5F9D336_RABIT      EKPDYDYLRKLFTDLFDRKGYMFDYEYDWIGKQ-LPTPVGAVQQDP---A
+tr|I0FHH4|I0FHH4_MACMU              EKPDYDYLRKLFTDLFDRKGYMFDYEYDWIGKQ-LPTPVGAVQQDP---A
+tr|A0A0A0MXY3|A0A0A0MXY3_RAT        EKPDYDYLRKLFTDLFDRKGYMFDYEYDWIGKQ-LPTPVGAVQQDP---A
+tr|E9Q3W1|E9Q3W1_MOUSE              RHPQLLYESKLYKILQGGVGIPHIRWYGQEKDYNVLVMDLLGPSLE---D
+tr|A0A590UJQ7|A0A590UJQ7_HUMAN      RHPQLLYESKLYKILQGGVGIPHIR-------------------------
+tr|A0A2I3MX56|A0A2I3MX56_PAPAN      RHPQLLYESKLYKILQGGVGIPHIRWYGQEKDYNVLVMDLLGPSLE---D
+tr|A0A2J8NJF1|A0A2J8NJF1_PANTR      EAPDYMYLRQLFRILFRTLNHQYDYTFDWTMLKQKAAQQAASSSGQ---G
+                                    . *:  *   *:  *    .  .                           
+
+tr|H0XGB9|H0XGB9_OTOGA              VTYEQDQNSMRSKKQSLMEQTTSSERRGEWEIQPSRQT------------
+tr|U3EF14|U3EF14_CALJA              ITRESHTHRDRPSQQ-----------------QPLRN-------------
+tr|A0A5F9D336|A0A5F9D336_RABIT      LSSNREAHQHRDKMQ-----------------QSKNQ-------------
+tr|I0FHH4|I0FHH4_MACMU              LSSNREAHQHRDKMQ-----------------QSKNQ-------------
+tr|A0A0A0MXY3|A0A0A0MXY3_RAT        LSSNREAHQHRDKIQ-----------------QSKNQSADHRAAWDSQQA
+tr|E9Q3W1|E9Q3W1_MOUSE              LFNFCSRRFTMKTVL-----------------------------------
+tr|A0A590UJQ7|A0A590UJQ7_HUMAN      --------------------------------------------------
+tr|A0A2I3MX56|A0A2I3MX56_PAPAN      LFNFCSRRFTMKTVL-----------------------------------
+tr|A0A2J8NJF1|A0A2J8NJF1_PANTR      QQAQTPTGKQTDKTK-----------------------------------
+                                                                                      
+
+tr|H0XGB9|H0XGB9_OTOGA              NTSYLTSHLAADRHGGSVQVVSSTNGELNVDDPMGAHSNAPITAHAEVEV
+tr|U3EF14|U3EF14_CALJA              ------------------QVVSSTNGELNVDDPTGAHSNAPITAHAEVEV
+tr|A0A5F9D336|A0A5F9D336_RABIT      -------------------VLLFLQTKEKENHPAP-----------QVTV
+tr|I0FHH4|I0FHH4_MACMU              -------------------VVSSTNGELNTDDPTAGRSNAPITAPTEVEV
+tr|A0A0A0MXY3|A0A0A0MXY3_RAT        NPHHLRAHLAADRHGGSVQVVSSTNGELNTDDPTAGRSNAPITAPTEVEV
+tr|E9Q3W1|E9Q3W1_MOUSE              ---------------------MLADQMISRIEYVHTKNFIHRDIKPDNFL
+tr|A0A590UJQ7|A0A590UJQ7_HUMAN      --------------------------------------------------
+tr|A0A2I3MX56|A0A2I3MX56_PAPAN      ---------------------MLADQMISRIEYVHTKNFIHRDIKPDNFL
+tr|A0A2J8NJF1|A0A2J8NJF1_PANTR      ---------------------SNMKGNADESARVGLWSSGVHVSKTAGPS
+                                                                                      
+
+tr|H0XGB9|H0XGB9_OTOGA              VEEAK--------CCCFFKRKRKKTAQRHK--------------------
+tr|U3EF14|U3EF14_CALJA              VEEANCLKMLNLWCCCFFKRKRKKTAQRHK--------------------
+tr|A0A5F9D336|A0A5F9D336_RABIT      AADASPRRLV----------------------------------------
+tr|I0FHH4|I0FHH4_MACMU              MDETNCQKVLNMWCCCFFKRRKRKTIQRHK--------------------
+tr|A0A0A0MXY3|A0A0A0MXY3_RAT        MDETKCCCFF--------KRRKRKTIQRHK--------------------
+tr|E9Q3W1|E9Q3W1_MOUSE              MGIGRHCNKCLESPVGKRKRSMTVSPSQDPSFSGLNQLFLIDFGLAKKYR
+tr|A0A590UJQ7|A0A590UJQ7_HUMAN      --------------------------------------------------
+tr|A0A2I3MX56|A0A2I3MX56_PAPAN      MGIGRHCN----------------------------KLFLIDFGLAKKYR
+tr|A0A2J8NJF1|A0A2J8NJF1_PANTR      NSATC---------------------------------------------
+                                                                                      
+
+tr|H0XGB9|H0XGB9_OTOGA              --------------------------------------------------
+tr|U3EF14|U3EF14_CALJA              --------------------------------------------------
+tr|A0A5F9D336|A0A5F9D336_RABIT      --------------------------------------------------
+tr|I0FHH4|I0FHH4_MACMU              --------------------------------------------------
+tr|A0A0A0MXY3|A0A0A0MXY3_RAT        --------------------------------------------------
+tr|E9Q3W1|E9Q3W1_MOUSE              DNRTRQHIPYREDKNLTGTARYASINAHLGIEQSRRDDMESLGYVLMYFN
+tr|A0A590UJQ7|A0A590UJQ7_HUMAN      --------------------------------------------------
+tr|A0A2I3MX56|A0A2I3MX56_PAPAN      DNRTRQHIPYREDKNLTGTARYASINAHLGIEQSRRDDMESLGYVLMYFN
+tr|A0A2J8NJF1|A0A2J8NJF1_PANTR      --------------------------------------------------
+                                                                                      
+
+tr|H0XGB9|H0XGB9_OTOGA              --------------------------------------------------
+tr|U3EF14|U3EF14_CALJA              --------------------------------------------------
+tr|A0A5F9D336|A0A5F9D336_RABIT      --------------------------------------------------
+tr|I0FHH4|I0FHH4_MACMU              --------------------------------------------------
+tr|A0A0A0MXY3|A0A0A0MXY3_RAT        --------------------------------------------------
+tr|E9Q3W1|E9Q3W1_MOUSE              RTSLPWQGLKAATKKQKYEKISEKKMSTPVEVLCKGFPAEFAMYLNYCRG
+tr|A0A590UJQ7|A0A590UJQ7_HUMAN      --------------------------------------------------
+tr|A0A2I3MX56|A0A2I3MX56_PAPAN      RTSLPWQGLKAATKKQKYEKISEKKMSTPVEVLCKGFPAEFAMYLNYCRG
+tr|A0A2J8NJF1|A0A2J8NJF1_PANTR      --------------------------------------------------
+                                                                                      
+
+tr|H0XGB9|H0XGB9_OTOGA              --------------------------------------------------
+tr|U3EF14|U3EF14_CALJA              --------------------------------------------------
+tr|A0A5F9D336|A0A5F9D336_RABIT      --------------------------------------------------
+tr|I0FHH4|I0FHH4_MACMU              --------------------------------------------------
+tr|A0A0A0MXY3|A0A0A0MXY3_RAT        --------------------------------------------------
+tr|E9Q3W1|E9Q3W1_MOUSE              LRFEEAPDYMYLRQLFRILFRTLNHQYDYTFDWTMLKQKAAQQAASSSGQ
+tr|A0A590UJQ7|A0A590UJQ7_HUMAN      --------------------------------------------------
+tr|A0A2I3MX56|A0A2I3MX56_PAPAN      LRFEEAPDYMYLRQLFRILFRTLNHQYDYTFDWTMLKQKAAQQAASSSGQ
+tr|A0A2J8NJF1|A0A2J8NJF1_PANTR      --------------------------------------------------
+                                                                                      
+
+tr|H0XGB9|H0XGB9_OTOGA              ----------------------
+tr|U3EF14|U3EF14_CALJA              ----------------------
+tr|A0A5F9D336|A0A5F9D336_RABIT      ----------------------
+tr|I0FHH4|I0FHH4_MACMU              ----------------------
+tr|A0A0A0MXY3|A0A0A0MXY3_RAT        ----------------------
+tr|E9Q3W1|E9Q3W1_MOUSE              GQQAQTPTGKQTDKTKSNMKGF
+tr|A0A590UJQ7|A0A590UJQ7_HUMAN      ----------------------
+tr|A0A2I3MX56|A0A2I3MX56_PAPAN      GQQAQTPTGKQTDKTKSNMKG-
+tr|A0A2J8NJF1|A0A2J8NJF1_PANTR      ----------------------
+                                                          
